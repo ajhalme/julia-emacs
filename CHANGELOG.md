@@ -1,6 +1,7 @@
 # Unreleased
 
 - fix indentation of submodule imports
+- Fix issue in keyword indentation with compound keywords ([#159](https://github.com/JuliaEditorSupport/julia-emacs/pull/159))
 
 # 0.4
 
