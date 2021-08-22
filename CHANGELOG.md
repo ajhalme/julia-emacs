@@ -2,6 +2,7 @@
 
 - fix indentation of submodule imports
 - Fix issue in keyword indentation with compound keywords ([#159](https://github.com/JuliaEditorSupport/julia-emacs/pull/159))
+- Generalise julia-indent-hanging to cover more cases ([#162](https://github.com/JuliaEditorSupport/julia-emacs/pull/162)), fixes [#155](https://github.com/JuliaEditorSupport/julia-emacs/issues/155)
 
 # 0.4
 
